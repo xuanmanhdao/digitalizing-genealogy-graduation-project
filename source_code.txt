@@ -1,0 +1,3 @@
+BE: https://github.com/xuanmanhdao/digitalizing-genealogy
+FE: https://github.com/xuanmanhdao/digitalizing-genealogy-fe
+Master data: https://github.com/xuanmanhdao/master-data
